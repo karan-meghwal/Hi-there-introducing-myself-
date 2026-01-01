@@ -10,7 +10,13 @@ I'm Karan Meghwal, a passionate Data Analyst with an array of skills in SQL, MS 
 • Excel : Generates reports and performs data analysis using MS Excel.
 • Tableau and Power BI : Develops interactive dashboards using Tableau and Power BI.
 
-## SKILLS
+## ⚙️ SKILLS
+Language: SQL
+Database: MySQL
+Visualization: Power BI
+Spreadsheet: MS Excel
+
+
 
 
 
