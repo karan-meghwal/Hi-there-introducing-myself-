@@ -14,16 +14,12 @@ I'm Karan Meghwal, a passionate Data Analyst with an array of skills in SQL, MS 
 • Tableau and Power BI : Develops interactive dashboards using Tableau and Power BI.
 
 ## ⚙️ Skills
-* Language: SQL
-
-* Database: MySQL
-
-* Visualization: Power BI
-
-* Spreadsheet: MS Excel
+* Language: SQL.<br>
+* Database: MySQL.<br>
+* Visualization: Power BI.<br>
+* Spreadsheet: MS Excel.<br>
 
 ## 📌 Projects
-
 * check out my portfolio : [My Project](https://github.com/karan-meghwal/amazon-sales-analysis-excel)
 
 
