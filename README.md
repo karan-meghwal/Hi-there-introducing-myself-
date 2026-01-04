@@ -20,5 +20,5 @@ I'm Karan Meghwal, a passionate Data Analyst with an array of skills in SQL, MS 
 * Check out my portfolio : [My Project](https://github.com/karan-meghwal/amazon-sales-analysis-excel)
 
 ## 🕸️ Let's Connect
-[Linkdin | Karan Meghwal](https://www.linkedin.com/in/karan-meghwal-118428399/)
+* [Linkdin | Karan Meghwal](https://www.linkedin.com/in/karan-meghwal-118428399/)
 
